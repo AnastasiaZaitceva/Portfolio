@@ -1,5 +1,8 @@
 ## Анализ сервиса аренды самокатов GoFast <br/>
 
+[HTML](./project_stat_analys.html)
+[ipynb](./project_stat_analys.ipynb)
+
 ***
 #### Задача:
 
