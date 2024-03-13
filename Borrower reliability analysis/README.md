@@ -1,5 +1,8 @@
 ## Исследование надежности заемщиков <br/>
 
+[HTML](./borrower_reliability_analysis.html)
+[ipynb](./cborrower_reliability_analysis.ipynb)
+
 ***
 #### Задача:
 
