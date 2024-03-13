@@ -1,5 +1,8 @@
 ## Анализ для интернет-магазина «Стримчик» <br/>
 
+[HTML](./DA_for_online_store.html)
+[ipynb](./DA_for_online_store.ipynb)
+
 ***
 #### Задача:
 
