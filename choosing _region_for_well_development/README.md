@@ -1,7 +1,7 @@
 ## Задача выбора региона разработки новой скважины <br/>
 
-[HTML](./choosing _region_for_well_development.html)
-[ipynb](./choosing _region_for_well_development.ipynb)
+[HTML](./choosing_region_for_well_development.html)
+[ipynb](./choosing_region_for_well_development.ipynb)
 
 ***
 #### Задача:
