@@ -10,7 +10,6 @@
 #### Навыки и инструменты:
 
 * python
-* scipy
 * pandas
 * matplotlib
 * seaborn
