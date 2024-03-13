@@ -1,6 +1,7 @@
 ## Задача оттока клиентов банка <br/>
 
-[Link](./bank_customer_churn_problem/bank_customer_churn_problem.html)
+[HTML](./bank_customer_churn_problem/bank_customer_churn_problem.html)
+[ipynb](./bank_customer_churn_problem/bank_customer_churn_problem.ipynb)
 
 ***
 #### Задача:
