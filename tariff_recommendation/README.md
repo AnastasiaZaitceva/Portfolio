@@ -1,5 +1,7 @@
 ## Модель для рекомендации тарифа мобильной связи <br/>
 
+[HTML](./tariff_recommendation.html)
+[ipynb](./tariff_recommendation.ipynb)
 ***
 #### Задача:
 
@@ -13,11 +15,11 @@
 * pandas
 * matplotlib
 * seaborn
-* sklearn.tree import DecisionTreeClassifier
-* sklearn.ensemble import RandomForestClassifier
-* sklearn.linear_model import LogisticRegression 
-* sklearn.model_selection import GridSearchCV
-* sklearn.dummy import DummyClassifier
+* sklearn.tree.DecisionTreeClassifier
+* sklearn.ensemble.RandomForestClassifier
+* sklearn.linear_model.LogisticRegression 
+* sklearn.model_selection.GridSearchCV
+* sklearn.dummy.DummyClassifier
 
 ***
 #### Общий вывод:
