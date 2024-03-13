@@ -1,5 +1,7 @@
 ## Задача оттока клиентов банка <br/>
 
+[Link](./bank_customer_churn_problem/bank_customer_churn_problem.html)
+
 ***
 #### Задача:
 
@@ -14,17 +16,17 @@
 * pandas
 * matplotlib
 * seaborn
-* sklearn.model_selection import train_test_split
-* sklearn.preprocessing import StandardScaler
-* sklearn.tree import DecisionTreeClassifier
-* sklearn.ensemble import RandomForestClassifier
-* sklearn.linear_model import LogisticRegression 
-* sklearn.model_selection import GridSearchCV
-* sklearn.metrics import confusion_matrix
-* sklearn.metrics import f1_score
-* sklearn.metrics import roc_curve 
-* sklearn.metrics import roc_auc_score
-* sklearn.dummy import DummyClassifier
+* sklearn.model_selection.train_test_split
+* sklearn.preprocessing.StandardScaler
+* sklearn.tree.DecisionTreeClassifier
+* sklearn.ensemble.RandomForestClassifier
+* sklearn.linear_model.LogisticRegression 
+* sklearn.model_selection.GridSearchCV
+* sklearn.metrics.confusion_matrix
+* sklearn.metrics.f1_score
+* sklearn.metrics.roc_curve 
+* sklearn.metrics.roc_auc_score
+* sklearn.dummy.DummyClassifier
 
 ***
 #### Общий вывод:
