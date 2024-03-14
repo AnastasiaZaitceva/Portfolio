@@ -19,8 +19,6 @@
 * pandas
 * re
 * nltk
-* sys
-* spacy
 * sklearn.feature_extraction.text.TfidfVectorizer 
 * sklearn.linear_model.LogisticRegression 
 * sklearn.tree.DecisionTreeClassifier
