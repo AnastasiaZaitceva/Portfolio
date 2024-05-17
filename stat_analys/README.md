@@ -1,4 +1,4 @@
-## Анализ сервиса аренды самокатов GoFast <br/>
+## Анализ сервиса аренды самокатов <br/>
 
 [HTML](./project_stat_analys.html)
 [ipynb](./project_stat_analys.ipynb)
