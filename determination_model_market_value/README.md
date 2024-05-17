@@ -1,4 +1,4 @@
-## Задача для сервиса по продаже автомобилей <br/>
+## Рекомендательная модель стоимости автомобиля <br/>
 
 [HTML](./determination_model_market_value.html)
 [ipynb](./determination_model_market_value.ipynb)
