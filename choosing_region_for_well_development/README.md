@@ -1,4 +1,4 @@
-## Задача выбора региона разработки новой скважины <br/>
+## Выбор региона разработки новой скважины <br/>
 
 [HTML](./choosing_region_for_well_development.html)
 [ipynb](./choosing_region_for_well_development.ipynb)
