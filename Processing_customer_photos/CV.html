@@ -8086,7 +8086,7 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Напишем функции для создания модели и ее обучения.</p>
-<p>В качестве функции потерь будем использовать Mean Squared Error.</p>
+<p>В качестве функции потерь будем использовать MAE.</p>
 <p>Так как перед нами задача регрессии, в конце сети останется только один нейрон, для которого применим функцию активации <code>relu</code> - она не изменит наших положительных прогнозов, а отрицательные приведет к нулю (так как возраст не может быть отрицательным).</p>
 </div>
 </div>
@@ -8115,7 +8115,7 @@ a.anchor-link {
     <span class="n">model</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">GlobalAveragePooling2D</span><span class="p">())</span>
     <span class="n">model</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s1">'relu'</span><span class="p">))</span>
 
-    <span class="n">model</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="n">loss</span><span class="o">=</span><span class="s1">'mean_absolute_error'</span><span class="p">,</span> <span class="n">optimizer</span><span class="o">=</span><span class="n">optimizer</span><span class="p">,</span> <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s1">'mae'</span><span class="p">])</span><span class="c1">#mean_squared_error</span>
+    <span class="n">model</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="n">loss</span><span class="o">=</span><span class="s1">'mean_absolute_error'</span><span class="p">,</span> <span class="n">optimizer</span><span class="o">=</span><span class="n">optimizer</span><span class="p">,</span> <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s1">'mae'</span><span class="p">])</span><span class="c1"># </span>
 
     <span class="k">return</span> <span class="n">model</span>
 
